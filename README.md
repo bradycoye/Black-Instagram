@@ -1,4 +1,4 @@
-# Black Mode for Instagram
+# Black Instagram
 Enjoy Instagram wtih full darkness #000000
 
 
