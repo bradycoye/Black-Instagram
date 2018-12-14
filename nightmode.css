@@ -31,11 +31,11 @@ a, abbr, acronym, address, applet, article, aside, audio, b, big, blockquote, bo
 }
 
 ._97aPb {
-background-color: #243447 !important;
+background-color: #000000 !important;
 
 }
 body{
-      background-color: #141d26 !important;
+      background-color: #000000 !important;
 }
 ._5mToa {
     border-top: 1px solid #6e8290 !important;
@@ -69,22 +69,22 @@ body{
 .E3X2T {
     min-height: 100% !important;
     overflow: hidden !important;
-    background-color: #252d35 !important;
+    background-color: #000000 !important;
 }
 
 .o64aR{
-  background-color: #141d26
+  background-color: #000000
 }
 
 ._lz6s{
-  background-color: #243447 !important;
+  background-color: #000000 !important;
   border-bottom: 1px solid rgba(90, 111, 128, 0.78)
 }
 
 .x3qfX
-{ background-color: #243447}
+{ background-color: #000000}
 
-.Di7vw {  background-color: #243447}
+.Di7vw {  background-color: #000000}
 
 
 
@@ -109,12 +109,12 @@ a, a:visited {
 
 .eo2As {
     padding: 0 16px !important;
-    background-color: #243447 !important;
+    background-color: #000000 !important;
 }
 
 .UE9AK {
     border-bottom: 1px solid #5c6c77 !important;
-    background-color: #243447 !important;
+    background-color: #000000 !important;
 }
 .nJAzx, .nJAzx:visited {
     color: #e0e0e0 !important;
@@ -131,7 +131,7 @@ a.O4GlU, a.O4GlU:visited {
     height: 100% !important;
     padding: 0 20px !important;
     text-align: center !important;
-    background-color: #2f3c46 !important;
+    background-color: #000000 !important;
 }
 ._8A5w5 {
     color: #e6e6e6 !important;
@@ -142,7 +142,7 @@ a.T-jvg, a.T-jvg:visited {
 }
 
 ._3Laht, .o64aR {
-    background-color: #151d26 !important;
+    background-color: #000000 !important;
 }
 
 .g47SY {
@@ -158,7 +158,7 @@ a.T-jvg, a.T-jvg:visited {
     -webkit-align-items: stretch !important;
     -ms-flex-align: stretch !important;
     align-items: stretch !important;
-    background-color: #243447 !important;
+    background-color: #000000 !important;
 }
 .yWX7d._8A5w5 {
     color: #fdfdfd !important;
@@ -180,19 +180,19 @@ a.T-jvg, a.T-jvg:visited {
 }
 
 ._3Laht, .o64aR {
-    background-color: #151d26 !important;
+    background-color: #000000 !important;
 }
 ._6oveC {
     -webkit-box-align: stretch !important;
     -webkit-align-items: stretch !important;
     -ms-flex-align: stretch !important;
     align-items: stretch !important;
-    background-color: #243447 !important;
+    background-color: #000000 !important;
 }
 
 .JyscU {
     width: 100% !important;
-    background-color: #243447  !important;
+    background-color: #000000  !important;
   }
 
   .aD2cN::after {
@@ -203,7 +203,7 @@ a.T-jvg, a.T-jvg:visited {
 }
 
 .t0fbY {
-    background: #243447 !important;
+    background: #000000 !important;
     border: solid 1px #4f6474 !important;
   }
 
@@ -256,7 +256,7 @@ a.T-jvg, a.T-jvg:visited {
 }
 
 .NP414, .NP414::before {
-    background: #151d26 !important;
+    background: #000000 !important;
 }
 
 .Qj3-a, .Qj3-a:visited {
@@ -268,7 +268,7 @@ a.T-jvg, a.T-jvg:visited {
     -webkit-align-items: center !important;
     -ms-flex-align: center !important;
     align-items: center !important;
-    background: #243447 !important;
+    background: #000000 !important;
     border: 1px solid #4f6474 !important;
     border-top-color: rgb(79, 100, 116) !important;
     border-top-style: solid !important;
@@ -312,7 +312,7 @@ a.T-jvg, a.T-jvg:visited {
 }
 
 .pbNvD {
-    background-color: #243447 !important;
+    background-color: #000000 !important;
     border: 1px solid #405b6f !important;
     border-top-color: rgb(64, 91, 111) !important;
     border-top-style: solid !important;
@@ -338,7 +338,7 @@ a.T-jvg, a.T-jvg:visited {
 }
 
 .vtWDf {
-    background: #243447 !important;
+    background: #000000 !important;
   }
 
 
@@ -372,7 +372,7 @@ a.T-jvg, a.T-jvg:visited {
   }
 
   .vtWDf {
-    background: #243447 !important;
+    background: #000000 !important;
     border: solid 1px #4f6474 !important;
     border-top-color: rgb(79, 100, 116) !important;
     border-top-style: solid !important;
@@ -389,7 +389,7 @@ a.T-jvg, a.T-jvg:visited {
 
 @media (min-width: 736px){
 .ltEKP .QBXjJ {
-    background-color: #243447 !important;
+    background-color: #000000 !important;
     border: 1px solid #4f6474 !important;
     border-bottom-right-radius: 3px !important;
     border-top-right-radius: 3px !important;
@@ -400,7 +400,7 @@ a.T-jvg, a.T-jvg:visited {
   }
 
   .BvMHM {
-      background-color: #243447 !important;
+      background-color: #000000 !important;
       border: 1px solid #4f6474 !important;
     }
 
@@ -410,7 +410,7 @@ a.T-jvg, a.T-jvg:visited {
     }
 
     .fuQUr:hover {
-    background-color: #243447 !important;
+    background-color: #000000 !important;
     border-left-color: #4f6474 !important;
 }
 
@@ -496,7 +496,7 @@ a.T-jvg, a.T-jvg:visited {
   }
 
   ._09ncq, .uzKWK {
-    background-color: #141d26 !important;
+    background-color: #000000 !important;
 }
 .Ouy_P {
     color: #ffffff !important;
@@ -517,11 +517,11 @@ a.T-jvg, a.T-jvg:visited {
     color: #dbdbdb !important;}
 
     .SJ1H9 {
-        background-color: #243447 !important;
+        background-color: #000000 !important;
     }
 
     .uAQYz {
-    background-color: #243447 !important;
+    background-color: #000000 !important;
 }
 .t3CGe {
     color: #fcfaf9 !important;
@@ -559,11 +559,11 @@ a.T-jvg, a.T-jvg:visited {
   }
 
   article{
-    background-color: #243447 !important;
+    background-color: #000000 !important;
 
   }
   article > div {
-    background-color: #243447  !important;
+    background-color: #000000  !important;
     border-color: #4f6474  !important;
     color: #ffffff  !important;
   }
@@ -573,13 +573,13 @@ a.T-jvg, a.T-jvg:visited {
   }
 
   ._3Laht, .o64aR {
-    background-color: #151d26 !important;
+    background-color: #000000 !important;
 }
 
 
 @media (min-width: 876px){
 .bR_3v:not(.Fzijm) {
-    background: #243447 !important;
+    background: #000000 !important;
     border: 1px solid #4f6474 !important;
 }}
 
@@ -593,16 +593,16 @@ a.T-jvg, a.T-jvg:visited {
 
 section > main > div > ul
 {
-  background: #243447  !important;
+  background: #000000  !important;
 
 }
 
 section > main > div > ul > li:first
 {
-  background: #243447  !important;
+  background: #000000  !important;
 }
 .XAtZx{
-  background: #243447  !important;
+  background: #000000  !important;
 
 }
 
@@ -633,18 +633,18 @@ section > main > div > ul > li:first
 
   @media (min-width: 736px){
 .GBPOY {
-    background-color: #243447 !important;
+    background-color: #000000 !important;
     border: 1px solid #4f6474 !important;
   }}
 
   .YHaCL, .uKzpc {
-    background: #243447 !important;
+    background: #000000 !important;
   }
   .JvDyy {
-      background: #2d445e !important;
+      background: #000000!important;
     }
 .drKGC {
-    background: #243447 !important;
+    background: #000000 !important;
     border: solid 1px #4f6474 !important;
   }
 
@@ -652,5 +652,5 @@ section > main > div > ul > li:first
     border-bottom: solid 1px #4f6474 !important;
   }
   .gr27e {
-    background-color: #243447 !important;
+    background-color: #000000 !important;
   }
